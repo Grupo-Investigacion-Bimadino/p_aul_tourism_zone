@@ -1,0 +1,21 @@
+{
+    "usuarios":[
+        {
+            "id":"number",
+            "nombre":"string",
+            "contraseña": "string"
+        }
+    ],
+    "sitios":[
+        {
+            "nombre":"string",
+            "Ubicacion":"string",
+            "descripcion":"string",
+            "imagenes":"image",
+            "enlace":"string",
+            "reseñas":"string"
+
+        }
+    ]
+    
+}
