@@ -1,0 +1,23 @@
+{
+  "name": "p_aul_tourism_zone",
+  "version": "1.0.0",
+  "description": "Duvan Steven Ruiz Benitez\r Leonardo Triana Coronado\r Antonio josé Gomez Banda\r Camilo José Avilez Guzman\r Roberto Carlos Roqueme Fajardo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grupo-Investigacion-Bimadino/p_aul_tourism_zone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grupo-Investigacion-Bimadino/p_aul_tourism_zone/issues"
+  },
+  "homepage": "https://github.com/Grupo-Investigacion-Bimadino/p_aul_tourism_zone#readme",
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  }
+}
