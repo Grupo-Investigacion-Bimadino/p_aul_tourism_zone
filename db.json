@@ -1,21 +1,20 @@
 {
-  "usuarios":[
-      {
-          "id":"number",
-          "nombre":"string",
-          "contraseña": "string"
-      }
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "aguacatin",
+      "contraseña": "mariaines"
+    }
   ],
-  "sitios":[
-      {
-          "nombre":"string",
-          "Ubicacion":"string",
-          "descripcion":"string",
-          "imagenes":"image",
-          "enlace":"string",
-          "reseñas":"string"
-
-      }
+  "sitios": [
+    {
+      "id": "1",
+      "nombre": "parque de los roqueme",
+      "Ubicacion": "monteria calle 27",
+      "descripcion": "el arroz es malo pa los que estamos piñuos",
+      "imagenes": "image",
+      "enlace": "https://larazon.co/wp-content/uploads/2017/03/C616TlUW0AQc1qu-1132x670.jpg",
+      "reseñas": "mucho parque malo ese, puro chirrete"
+    }
   ]
-  
 }
